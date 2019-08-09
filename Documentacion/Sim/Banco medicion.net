@@ -1,8 +1,0 @@
-* Z:\home\tanita\Documentos\Proyecto balanceadora\Documentacion\Sim\Banco medicion.asc
-R1 V2 V1 15k
-L1 N001 0 0.1
-Vac V1 0 SINE(0 6 1k 0 0 0 5)
-R2 V2 N001 2k
-.tran 0 5m 0
-.backanno
-.end
